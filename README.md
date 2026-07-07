@@ -74,7 +74,7 @@ pip install -r requirements.txt
 
 Create a `.env` file:
 
-GROQ_API_KEY=your_key_here
+GROQ_API_KEY=your_key_here,
 TAVILY_API_KEY=your_key_here
 
 Add documents to the `documents/` folder, then build the vector store:
